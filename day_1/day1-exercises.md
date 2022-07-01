@@ -7,3 +7,6 @@
 7. Empty elements are are elements are elements with no words between the opening and closing tags.
 8. semantic markups do not affect the  structure of a page but are used to change the meaning of some words and sentences.
 9.  <strong> indicates that the word(s) inside it have strong importance. <em> indicates that the word(s) inside can subtly change its meaning. <abbr> can be used for both acronyms and abbreviations.
+
+My html code:
+https://codepen.io/Mrcolin99/pen/QWmwRNY?editors=1000
